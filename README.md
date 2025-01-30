@@ -47,14 +47,15 @@ Personal-Portfolio/
 [Link to Live Portfolio](#) *(Replace this with your actual live link)*
 
 ## Screenshots
-
-*(Add relevant screenshots here)*
+![img1](https://github.com/user-attachments/assets/fac3161a-ce36-417a-8970-d3ea7f483834)
+![img2](https://github.com/user-attachments/assets/99b0e3d4-981e-480e-a4ce-e78589c569b4)
+![img3](https://github.com/user-attachments/assets/43ce2d4c-9e85-4808-9823-5f8a6ea51423)
+![img5](https://github.com/user-attachments/assets/9e7cb10a-0109-4b7b-96ee-b9995a62cf07)
+![img4](https://github.com/user-attachments/assets/cdf45fe1-720b-4277-a6e5-a10feb246d87)
 
 ## Contact
 Feel free to reach out if you have any questions or feedback:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
+- **Email:** tahmeedferdous281201@gmail.com
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
