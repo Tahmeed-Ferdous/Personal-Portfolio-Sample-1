@@ -44,7 +44,7 @@ Personal-Portfolio/
 3. Open `index.html` in your preferred web browser.
 
 ## Live Demo
-[[Link to Live Portfolio](#) *(Replace this with your actual live link)*](https://tasfiabintemahmud.netlify.app/)
+https://tasfiabintemahmud.netlify.app/
 
 ## Screenshots
 ![img1](https://github.com/user-attachments/assets/fac3161a-ce36-417a-8970-d3ea7f483834)
