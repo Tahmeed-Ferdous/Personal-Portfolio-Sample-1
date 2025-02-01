@@ -665,6 +665,7 @@ body.active { overflow: hidden; }
 .category-card .card-title {
   color: var(--white_a25);
   margin-block-end: 10px;
+  font-size: 40px;
   text-align: center;
   transition: var(--transition-2);
 }
